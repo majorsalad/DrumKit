@@ -8,3 +8,7 @@ DrumKit is a web-application that allows the user to make different drum sounds 
 
 # What I learned
 I learned about several advanced javascript topics, such as high order functions and callback functions. I also learned a great deal of DOM manipulation techniques (text manipulation, style manipulation, attribute manipulation, etc). Learned how to use sound in web applications as well as the basics of animation.
+
+# How to use
+- Click on this link: https://majorsalad.github.io/DrumKit/
+- Or download/clone the repository and run the index.html 
